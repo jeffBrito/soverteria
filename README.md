@@ -1,6 +1,6 @@
 # soverte_app
 
-A new Flutter project.
+Aplicativo Simples desenvolvido em Flutter para entrada e saída de Cliente para Soverteria
 
 ## Getting Started
 
